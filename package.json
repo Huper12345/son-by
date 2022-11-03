@@ -1,0 +1,18 @@
+{
+  "name": "son-by.by",
+  "version": "1.0.0",
+  "description": "Website for the drug sleep by create by huper12345",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Website for the drug son-by"
+  },
+  "keywords": [
+    "sonby"
+  ],
+  "author": "huper12345",
+  "license": "ISC"
+}
