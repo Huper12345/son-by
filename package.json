@@ -16,6 +16,7 @@
   "author": "huper12345",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.26.0"
+    "eslint": "^8.26.0",
+    "prettier": "2.7.1"
   }
 }
