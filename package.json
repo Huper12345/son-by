@@ -14,5 +14,8 @@
     "sonby"
   ],
   "author": "huper12345",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  }
 }
